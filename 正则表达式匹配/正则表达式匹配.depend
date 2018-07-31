@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532075184 source:g:\code\c++\正则表达式匹配\main.cpp
+	<iostream>
+	<string.h>
+

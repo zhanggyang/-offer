@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532077270 source:g:\code\c++\表示数值的字符串\main.cpp
+	<iostream>
+	<string.h>
+

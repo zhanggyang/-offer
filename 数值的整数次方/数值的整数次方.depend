@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530848661 source:g:\code\c++\数值的整数次方\main.cpp
+	<iostream>
+	<vector>
+

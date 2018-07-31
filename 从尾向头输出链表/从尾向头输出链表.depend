@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530534610 source:g:\code\c++\从尾向头输出链表\main.cpp
+	<iostream>
+	<vector>
+

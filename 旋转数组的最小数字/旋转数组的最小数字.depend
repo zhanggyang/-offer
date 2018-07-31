@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530703110 source:g:\code\c++\旋转数组的最小数字\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

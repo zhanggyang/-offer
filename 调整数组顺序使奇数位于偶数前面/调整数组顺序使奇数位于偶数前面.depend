@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530861908 source:g:\code\c++\调整数组顺序使奇数位于偶数前面\main.cpp
+	<iostream>
+	<vector>
+

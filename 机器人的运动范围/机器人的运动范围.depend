@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532252938 source:g:\code\c++\机器人的运动范围\main.cpp
+	<iostream>
+	<vector>
+

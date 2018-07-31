@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531799902 source:g:\code\c++\把数组排成最小的数\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

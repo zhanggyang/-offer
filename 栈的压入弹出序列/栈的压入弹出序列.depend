@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531136852 source:g:\code\c++\栈的压入弹出序列\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

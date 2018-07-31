@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1531964144 source:g:\code\c++\和为s的连续整数\main.cpp
+	<iostream>
+	<vector>
+

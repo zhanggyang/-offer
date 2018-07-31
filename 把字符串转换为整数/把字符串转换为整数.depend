@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532054097 source:g:\code\c++\把字符串转换为整数\main.cpp
+	<iostream>
+	<string>
+
